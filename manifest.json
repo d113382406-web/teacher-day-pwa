@@ -1,0 +1,20 @@
+{
+"name": "教師節快樂祝福卡",
+"short_name": "教師節祝福",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#e0c3fc",
+"theme_color": "#8ec5fc",
+"icons": [
+{
+"src": "https://cdn-icons-png.flaticon.com/512/3429/3429312.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://cdn-icons-png.flaticon.com/512/3429/3429312.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
